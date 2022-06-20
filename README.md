@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Masimapiye
-- 👀 I’m interested in learning more about modern Data Analysis
-- 🌱 I’m currently undertaking a Data Analysis
-- 💞️ I’m looking to collaborate on projects
+Hi, I’m @Masimapiye
+I am a creative thinker who enjoys a great challenge.
+I enjoy finding ways to tell a story with data and derive insights.
+
 
 
 <!---
